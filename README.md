@@ -161,10 +161,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-### Notes
-- The `README.md` is written in English to match the implementation language.
-- It includes clear instructions for setup, usage, and troubleshooting, addressing issues like the previous `FileNotFoundError` for the `reports` directory.
-- The CLI interface is user-friendly, with defaults to simplify usage and optional arguments for customization.
-- For real-world use, extend `WebSearchAgent` to integrate actual web scraping, as the current implementation uses mock data.
 
-Save this content as `README.md` in the project root directory (`C:\Users\PCCV\Downloads\crew`). If you need the README in Arabic or have specific additions (e.g., more details on web scraping setup), let me know!
