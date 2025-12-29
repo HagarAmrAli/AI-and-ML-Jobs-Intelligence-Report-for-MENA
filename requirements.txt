@@ -1,9 +1,7 @@
-reportlab
-pandas
-matplotlib
-seaborn
-streamlit
-requests
-beautifulsoup4
-lxml
-numpy
+pandas==2.2.2
+requests==2.32.3
+beautifulsoup4==4.12.3
+matplotlib==3.9.2
+seaborn==0.13.2
+reportlab==4.2.2
+numpy==2.0.2
